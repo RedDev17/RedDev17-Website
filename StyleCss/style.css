@@ -10,14 +10,12 @@ p{
     border-style: solid;
     border: 0px;
     width: 450px;
-    padding: 40px;
+    padding: 250px;
     background: rgba(0, 0, 0, 0.4);
     text-align: center;
-    margin-top: 5%;
     color: white;
     margin: auto;
     font-family: sans-serif;
-
 }
 
 .css-avatar{
@@ -56,6 +54,10 @@ p{
     color: white;
 }
 body{
-    background-image: url('imgc1.jpg');
+    background: url('imgc1.jpg')no-repeat;
+    font-size: 40px;
     background-position: center;
+    margin: 0;
+    padding: 0;
+    background-color: black;
 }
